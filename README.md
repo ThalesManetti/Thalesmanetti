@@ -139,14 +139,11 @@ Sou curioso por natureza. Games, RPG e economia me ensinaram algo que os dados s
 
 ## 🚀 Projetos em Destaque
 
-> ⚙️ *Repositórios sendo estruturados — em breve com documentação completa.*
-
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| 🔜 **Análise de Campanhas Digitais** | Pipeline de dados para análise de performance em tráfego pago | Python · SQL · Power BI |
-| 🔜 **Dashboard Financeiro** | Visualização de portfólios e indicadores de mercado | Power BI · DAX · SQL |
-| 🔜 **Segmentação de Clientes** | Clusterização e análise comportamental de base de clientes | Python · Pandas · Scikit-learn |
-| 📝 **SQL Exercises** | Exercícios práticos de SQL aplicados a cenários reais | SQL |
+| 📊 [**Teczone Sales Analysis**](https://github.com/ThalesManetti/teczone-sales-analysis) | Case study completo de vendas — Pareto, Lucratividade, Churn e Segmentação RFV | Power BI · DAX · SQL |
+| 📣 [**Lucas Martins Marketing Analytics**](https://github.com/ThalesManetti/lucas-martins-marketing-analytics) | Dashboard unificado Meta Ads + Google Ads + GA4 para infoprodutor | Power BI · GA4 · DAX |
+| ⚽ [**Money Ball — Cartola FC Scouting**](https://github.com/ThalesManetti/moneyball-cartola-analytics) | Sistema de scouting com ML para identificar pechinchas no Cartola FC | Python · LightGBM · Power BI |
 
 ---
 
