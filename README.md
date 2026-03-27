@@ -144,6 +144,8 @@ Sou curioso por natureza. Games, RPG e economia me ensinaram algo que os dados s
 | 📊 [**Teczone Sales Analysis**](https://github.com/ThalesManetti/teczone-sales-analysis) | Case study completo de vendas — Pareto, Lucratividade, Churn e Segmentação RFV | Power BI · DAX · SQL |
 | 📣 [**Lucas Martins Marketing Analytics**](https://github.com/ThalesManetti/lucas-martins-marketing-analytics) | Dashboard unificado Meta Ads + Google Ads + GA4 para infoprodutor | Power BI · GA4 · DAX |
 | ⚽ [**Money Ball — Cartola FC Scouting**](https://github.com/ThalesManetti/moneyball-cartola-analytics) | Sistema de scouting com ML para identificar pechinchas no Cartola FC | Python · LightGBM · Power BI |
+| 🏭 [**FinOps Manufacturing Intelligence**](https://github.com/ThalesManetti/finops-manufacturing-intelligence) | Pipeline completo financeiro para indústria Tier 2 — DRE, Margem e Orçado vs. Realizado | Power BI · BigQuery · dbt · Airflow |
+| 📝 [**SQL Exercises**](https://github.com/ThalesManetti/SQL-Exercises) | Exercícios práticos de SQL aplicados a cenários reais | SQL |
 
 ---
 
